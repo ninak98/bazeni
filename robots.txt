@@ -1,8 +1,0 @@
-User-agent:*
-Disallow
-User-agent:*
-Disallow:/
-User-agent:*
-Disallow:/database/
-Disallow:/scripts/
-https://github.com/ninak98/bazeni/blob/main/sitemap.xml
