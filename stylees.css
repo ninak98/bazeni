@@ -69,7 +69,6 @@ a{ text-decoration:none;
 	text-align: center;
 	font-size: 4vw 4vh;
 	text-shadow: 0 0 3px #0A2FF5, 0 0 5px white;
-	word-break: break-all;
 }
 .onama{
 	background-image: url("img/onama.jpg");
